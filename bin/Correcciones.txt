@@ -1,0 +1,4 @@
+Nota: 10
+
+Correcciones: ver comentarios FIXME en el código devuelto.
+Sin correcciones generales.
